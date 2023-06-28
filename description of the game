@@ -1,0 +1,11 @@
+The game is a text-based interactive adventure featuring a character named Thoma. It takes the player on a journey through a storyline where they make choices that impact the direction of the narrative. The game focuses on dialogue interactions and branching paths, allowing players to experience different outcomes based on their decisions.
+
+The player starts by entering the Thoma Hangout Story and is greeted with a welcome message. As the story progresses, the player engages in conversations with Thoma, navigating through various dialogue branches. The choices made by the player determine the subsequent dialogue options and plot developments.
+
+Throughout the game, Thoma presents the player with different scenarios and options to choose from. The player's decisions influence the unfolding events and the character's reactions. The game includes moments of hospitality, exploration, spreading news, and experiencing different locations.
+
+To enhance the immersion, the game incorporates a dialogue system implemented using a linked list data structure. The linked list stores dialogue lines, which are sequentially displayed to the player, providing a cohesive and interactive narrative experience.
+
+As the player progresses through the game and explores different dialogue branches, they uncover more of Thoma's story and the world around him. The game offers multiple endings and outcomes based on the choices made by the player, encouraging replayability to discover alternative paths and storylines.
+
+Overall, the game combines elements of storytelling, decision-making, and character interactions to create an engaging text-based adventure. Players are encouraged to immerse themselves in the narrative, make choices that reflect their desired outcomes, and experience the consequences of their decisions within the world of Thoma.
