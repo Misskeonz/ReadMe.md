@@ -1,0 +1,63 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(Return to the Yashiro Commission to make final preparations)
+ 
+Thoma: To be honest, with this being my first time holding a class, I've got no idea how many people to expect.
+Thoma: I just hope it goes well. Anyway, tonight I'll set up the tables and chairs, then tomorrow we can meet back at the Yashiro Commission headquarters.
+Thoma: So, what do you think the turnout will be like, (Traveler)?
+
+You: I'm sure lots of people will come.
+
+Thoma: I sure hope so. We promoted it pretty hard, after all.
+Thoma: This is the weirdest feeling. Housekeeping has always been something I do alone, but now I'm about to face a class full of students.
+Thoma: You'd better show up to class tomorrow!
+
+You: I'm not super optimistic...
+
+Thoma: Haha, truth be told, I'm a little nervous myself.
+Thoma: But I'm sure it will turn out okay. We put in the legwork, after all.
+Thoma: Guess we'll have to wait and see what tomorrow brings. As for tonight, I need a good rest.
+Thoma: See you tomorrow, (Traveler)!
+
+(Go to the Yashiro Commission to take part in the housekeeping course)
+
+Thoma: Welcome, one and all. This is my first time teaching a housekeeping class, just as, I'm sure, it's your first time attending one.
+Thoma: I'd like to start from the theory, if I may, and talk a little bit about why mastering the discipline of housekeeping is such an important thing.
+Ogura Mio: Quick, come in, Thoma's started the class already.
+
+You: There's so many people...
+
+Ogura Mio: Well, of course. No one's ever held a class like this in the past.
+Ogura Mio: I saved you a place. Please take a seat.
+
+Thoma: The way I see it, housekeeping is a unique skillset that empowers you to set your life in order.
+Thoma: Nowhere are these skills more pertinent than in the context of a marital relationship. In a marriage, the lives of two people become closely intertwined.
+Thoma: If you can't look after yourself properly, that burden ends up being shouldered by your partner. This, in turn, will start to take a toll upon the relationship...
+Thoma: Umm... huh, what are you doing here?
+ 
+Kazumasa: What the...
+Furusawa: Huh?
+Yuuko: I brought him. Didn't you say men can study housekeeping too?
+Yuuri: Wipe that look off your face! Aren't you going to greet the teacher?
+Kazumasa: No, it's... I...
+Yuuko: Darling?
+Kazumasa: H—Hello, teacher.
+Furusawa: For the love of... Hello, teacher.
+ 
+Thoma: Well hello, and welcome. Now that you're here, I expect you to pay attention and work hard.
+Thoma: Well, let's keep going. Housekeeping is not difficult per se — the difficult part is consistency: keeping on top of it over a long stretch of time.
+Thoma: To keep up with housework on an ongoing basis, you either have to love everything about it, or you need a few tricks up your sleeve to make things easier. So, for today's topic, we're going to focus on "How to make light work... of housework!"
+
+You: (So far so good.)
+
+Thoma: Excuse me, you over there. Focus, please.
+
+(The camera pans to Traveler, who looks dozing off)
+
+Thoma: I like to see active engagement in my lessons.
+Thoma: That is unless some of you are looking to stay behind after class to catch up...
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Active engagement, that's what you like to see!
+
+Achieved: Ending: Popular Class
