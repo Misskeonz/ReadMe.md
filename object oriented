@@ -1,0 +1,26 @@
+Here are some object-oriented concepts utilized in the game:
+1. Classes: The game utilizes classes to encapsulate related data and behavior. The Player class represents a player in the game, and the Character class represents the character Thoma. Each class encapsulates its own data members and member functions, providing a modular and organized approach to modeling entities within the game.
+
+2. Encapsulation: Encapsulation is a principle that involves bundling data and related methods within a class, hiding the implementation details and providing a public interface to interact with the class. In the game, the Character class encapsulates the dialogue linked list and methods related to the character's interactions and story progression. The LinkedList class encapsulates the linked list data structure and its operations.
+
+3. Inheritance: Inheritance is a concept where a class inherits properties and behavior from another class. Although not explicitly shown in the provided code, inheritance could be used to model relationships between different characters or entities in the game. For example, if there are multiple characters in the game, a base Character class could be defined, and specific character classes could inherit from it, extending its functionality.
+
+4. Polymorphism: Polymorphism allows objects of different classes to be treated as objects of a common base class, enabling flexibility and extensibility. While not directly evident in the provided code, polymorphism could be employed to handle different choices and branching paths within the game. By defining a base class for choices and different derived classes for specific choices, the game logic could handle and process choices uniformly, regardless of the specific choice type.
+
+5. Object Composition: Object composition involves creating complex objects by combining simpler objects. The game's design may involve composing various objects, such as a Game class that brings together the Player and Character objects, managing the game flow and interactions.
+
+These object-oriented concepts facilitate code organization, reusability, and modularity, making the game easier to understand, maintain, and extend. By leveraging these concepts, the game's development follows best practices for object-oriented programming, promoting a structured and scalable design.
+How linked lists/stacks/queues play a role in this game
+In the provided game code, a linked list data structure is used to manage the dialogue lines in the Character class. 
+1. Linked List:
+   - The `LinkedList` class (defined in "LinkedList.h" and implemented in "LinkedList.cpp") represents a linked list data structure.
+   - The `addNode` function in the `LinkedList` class is used to add dialogue lines to the linked list. Each dialogue line is stored as a string, and a new node is created for each line and appended to the end of the linked list.
+   - The `display` function in the `LinkedList` class is used to traverse the linked list and display the dialogue lines to the player. It iterates through each node and prints the data (dialogue line) stored in it.
+   - The `dialogue` member variable of the `Character` class is an instance of the `LinkedList` class. It stores the dialogue lines that are read from files and displayed during the game. The linked list structure allows for efficient storage and retrieval of dialogue lines.
+
+2. Stacks and Queues:
+   - Although the provided code does not explicitly utilize stacks or queues, these data structures can be used to enhance the gameplay and implement additional features.
+   - Stacks can be used to implement a dialogue history feature, allowing players to backtrack and review previously encountered dialogue lines. Each dialogue line can be pushed onto the stack as it is displayed, and players can pop lines off the stack to view the history.
+   - Queues can be utilized to implement a message or event system. For example, if the game has asynchronous events or messages that need to be processed in order, a queue can be used to store and handle them sequentially. Players can receive messages or trigger events, and the queue ensures that they are processed in the correct order.
+
+It's important to note that the provided code does not demonstrate the explicit usage of stacks or queues. However, the concept of a linked list is employed to manage the dialogue lines in the game, providing a sequential and interactive narrative experience for the player. Additional usage of stacks and queues could be implemented to enhance the game's functionality and expand its features.
