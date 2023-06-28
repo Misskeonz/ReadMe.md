@@ -1,0 +1,28 @@
+You: We spent quite an eventful time here.
+ Thoma: We sure did. Katsuie, from the Kanjou Commission, was persecuting those poor merchants, until you stepped in, of course.
+ Thoma: A lot of people in Ritou are still very grateful to you for that. They ask me about you sometimes.
+ Thoma: If you're interested, I could set up a meal for all of us if you'd like.
+
+
+
+Keiichi: Excuse me — Thoma?
+ Keiichi: It is you! What a coincidence. I was just about to send someone to deliver a gift to you.
+ Thoma: I don't believe we've met? And if there's a gift involved here, I'm not sure I've earned it! Is there something I can do for you?
+ Keiichi: No, no, you don't know me, but I've heard of you before.
+ Keiichi: I ran into some trouble a while back, asked Kurisu for some help, and he said you were the one that resolved the situation.
+ Keiichi: Kurisu is always telling us that repaying favors is all the more important for us as merchants.
+ Keiichi: If you're on the receiving end of someone's kindness, you can't let it go unacknowledged. So, I tried to pick out something that I thought you might like...
+ Thoma: Something... you thought I might like?
+ Keiichi: That's right! So here it is — some confectionery from Yumeno Tennenan, a fine purveyor of Inazuman delicacies. Each one costs a small fortune.
+ Keiichi: I thought this would be the only fitting way to repay someone of your stature!
+ Keiichi: Not to mention that the value of your assistance far outweighs the value of my gift.
+ Keiichi: Do you like it?
+ Thoma: ...
+ Thoma: Haha, I don't know how you did it, but you managed to cater to my tastes perfectly.
+ Thoma: I humbly accept your gift. Keep up the good work in your line of business, and if you have any further problems, feel free to come find me.
+ Keiichi: I will! Thanks again, Thoma!
+ Keiichi: I'll leave you in peace now. Have a good day!
+ Thoma: You too, goodbye.
+ Thoma: Pretty high-energy guy, huh.
+ Thoma: You wanna try, (Traveler)? This store is indeed renowned in Inazuma. In fact, demand is so high that it's very difficult to come by their products.
+ Thoma: They're all handmade by top chefs, and the flavor is as authentic as it gets.
