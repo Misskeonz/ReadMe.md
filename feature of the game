@@ -1,0 +1,12 @@
+The game has several features:
+1. Dialogue System: The game uses a linked list implementation to store and display dialogue lines. The LinkedList class in LinkedList.h and LinkedList.cpp provides the functionality to add nodes (dialogue lines) and display them sequentially.
+
+2. File Handling: The Character class in Character.h and Character.cpp includes a method called "readFile" that reads dialogue lines from files and adds them to the linked list. The dialogue lines are displayed to the player during the game.
+
+3. Choices and Branching: The game offers the player choices at various points in the story, and the chosen option determines the subsequent dialogue and branching paths. Each choice leads to different text files being read and displayed using the linked list.
+
+4. Storyline Progression: The game follows a storyline involving Thoma and the player's interactions. The player starts with the "start" method, progresses through different dialogue branches such as "Itinerary," "ToChangetheWinds," "ThanksforYourHospitality," and more. Each dialogue branch represents a different segment of the story.
+
+In this game, the linked list is primarily used to store and display the dialogue lines. Each node of the linked list represents a dialogue line, and the "addNode" method is used to add new dialogue lines to the list. The "display" method is used to traverse the linked list and output the dialogue lines to the console.
+
+Overall, the linked list data structure helps manage and present the dialogue in a sequential and organized manner, allowing the player to engage with the character and progress through the game's story.
